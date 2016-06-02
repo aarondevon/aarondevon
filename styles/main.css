@@ -143,8 +143,11 @@ footer ul li {
 }
 
 footer a {
-    color: #000;
     text-decoration: none;
+}
+
+.zocial-github {
+  color: #303030;
 }
 
 .zocial-twitter {
