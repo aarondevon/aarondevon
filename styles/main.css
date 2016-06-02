@@ -132,14 +132,16 @@ footer {
     margin-bottom: 25px;
 }
 
-footer ul {
+/*footer  {
     padding: 0;
-}
+}*/
 
-footer ul li {
-    display: inline;
+footer .social {
+    display: inline-block;;
     padding: 1em;
     font-size: 1.5em;
+    padding-top: 0;
+    padding-bottom: 10px;
 }
 
 footer a {
