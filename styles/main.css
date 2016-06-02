@@ -29,6 +29,12 @@ header {
     width: 100%;
 }
 
+.head-container img {
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
 .logo-image {
 
     float: left;
